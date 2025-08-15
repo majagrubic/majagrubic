@@ -7,11 +7,11 @@ Over the years, I’ve helped ship products at <b>Amazon</b> 🛒, <b>Elastic</b
 
 ## 🛠️ What I’m great at
 
-Frontend wizardry✨: React ⚛️, TypeScript 📘, PrimeReact 🎯, Vite ⚡
+Frontend wizardry✨: React ⚛️, TypeScript 📘, PrimeReact, Vite
 
-Backend muscle 💪: Node.js 🟢, Firebase 🔥, REST APIs 🌐
+Backend muscle 💪: Node.js, Firebase, REST APIs
 
-Architecture & scale 📏: System design 🧠, legacy modernization 🌱, performance optimization ⚡
+Architecture & scale 📏: System design, legacy modernization, performance optimization
 
 Testing mindset 🧪: Jest, Cypress, vitest, mocking strategies, unit + integration testing
 
