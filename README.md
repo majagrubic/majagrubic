@@ -24,7 +24,7 @@ Collaboration 🤝: Turning complex requirements into shipped features teams are
 
 🧠 Once brought down the entire fleet, causing 100% service outage
 
-📝 Some people found my work useful and gave me an "engineer of the month" award for [this feature](https://www.elastic.co/blog/discover-uses-fields-api-in-7-12)
+📝 Some people found my work useful and gave me an "engineer of the month" award for [working on an API integration in Kibana](https://www.elastic.co/blog/discover-uses-fields-api-in-7-12)
 
 ## 📬 Let’s connect
 
