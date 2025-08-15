@@ -5,9 +5,7 @@ Hi, I’m Maja
 I’m a Software Engineer with 15+ years of experience turning big ideas into fast, reliable, and delightful products.
 Over the years, I’ve helped ship products at Amazon, Elastic, and Intercom, solving problems that range from UX polish to deep architectural overhauls.
 
----
-
-🛠️ What I’m great at
+## 🛠️ What I’m great at
 
 Frontend wizardry: React, TypeScript, PrimeReact, Vite
 
@@ -19,15 +17,7 @@ Testing mindset: Jest, Cypress, vitest, mocking strategies, unit + integration t
 
 Collaboration: Turning complex requirements into shipped features teams are proud of
 
----
-
-📊 GitHub at a glance
-
-majagrubic
-
----
-
-📬 Let’s connect
+## 📬 Let’s connect
 
 LinkedIn: [Here](https://www.linkedin.com/in/maja-grubic-50124861/)
 
