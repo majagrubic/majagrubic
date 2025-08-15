@@ -20,7 +20,7 @@ Collaboration 🤝: Turning complex requirements into shipped features teams are
 ## 🚀 Career highlights
 ✨ Enabled [Pikachu in Kibana](https://www.linkedin.com/posts/philippkrenn_kibana-activity-7076834280328372224-VKeJ)
 
-💬 Gave [this talk](https://www.youtube.com/watch?v=ZOwPhH0oqe8) after having had a Xanax and a beer
+💬 Gave [a talk about shipping fast](https://www.youtube.com/watch?v=ZOwPhH0oqe8) after having had a Xanax and a beer, talking really slowly
 
 🧠 Once brought down the entire fleet, causing 100% service outage
 
