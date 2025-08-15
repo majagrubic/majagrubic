@@ -18,7 +18,7 @@ Testing mindset 🧪: Jest, Cypress, vitest, mocking strategies, unit + integrat
 Collaboration 🤝: Turning complex requirements into shipped features teams are proud of
 
 ## 🚀 Career highlights
-✨Enabled [Pikachu in Kibana] (https://www.linkedin.com/posts/philippkrenn_kibana-activity-7076834280328372224-VKeJ)
+✨Enabled [Pikachu in Kibana](https://www.linkedin.com/posts/philippkrenn_kibana-activity-7076834280328372224-VKeJ)
 
 💬 Gave [this talk](https://www.youtube.com/watch?v=ZOwPhH0oqe8) after having had a Xanax and a beer
 
