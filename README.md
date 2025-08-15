@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Maja :female-technologist::skin-tone-2:
+Hi, I’m Maja 👩🏻‍💻
 
 I’m a Software Engineer with 15+ years of experience turning big ideas into fast, reliable, and delightful products.
 Over the years, I’ve helped ship products at Amazon, Elastic, and Intercom, solving problems that range from UX polish to deep architectural overhauls.
